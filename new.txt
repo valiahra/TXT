@@ -1,0 +1,5 @@
+FullName: :Kramovich Valentina Vitalievna
+Age: 29
+NumberOfPets: 2
+FutureDesiredSalary: 10000$
+
