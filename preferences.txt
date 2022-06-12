@@ -1,0 +1,6 @@
+FavoriteMovie: HumpbackMountain
+FavoriteSeries: Office
+FavoriteFood": Shawarma
+FavoriteSeason": Summer
+CountryToVisit: Valhalla
+
